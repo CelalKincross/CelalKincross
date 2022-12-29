@@ -15,7 +15,13 @@ I am currently a high school Computer Science teacher, husband, and father, look
 <img align="left" alt="sass" width="30px" src="https://user-images.githubusercontent.com/41302034/209922394-f9cd7a0c-8ae0-41e9-930f-d4d24c5c242e.svg" style="max-width: 100%;">
 <img align="left" alt="html" width="30px" src="https://user-images.githubusercontent.com/41302034/209922507-923c42df-e010-462d-a1fc-b0775cdbaa8a.svg" style="max-width: 100%;">
 <img align="left" alt="git" width="30px" src="https://user-images.githubusercontent.com/41302034/209923320-a02990ab-4d38-4b1d-8554-4979257e1a23.svg" style="max-width: 100%;">
+<br>
 
+#
+
+**`Github Stats`**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celalkincross)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
