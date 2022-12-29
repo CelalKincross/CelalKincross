@@ -22,6 +22,7 @@ I am currently a high school Computer Science teacher, husband, and father, look
 **`Github Stats`**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celalkincross)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celalkincross&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
