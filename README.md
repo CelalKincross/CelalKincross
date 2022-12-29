@@ -1,6 +1,7 @@
-# ✨ Celal Kincross ✨ 
+![Yang-Lee YOung](https://user-images.githubusercontent.com/41302034/209915796-08d1a05b-881c-442a-ac64-74f44d6cb44d.svg)
 
 **`React/Javascript Developer`**
+
 <!--
 **CelalKincross/CelalKincross** is a _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
