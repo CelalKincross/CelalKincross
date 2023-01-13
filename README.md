@@ -21,7 +21,7 @@ Welcome to my GitHub repository! I am a high school computer science teacher, ex
 
 **`Github Stats`**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=celalkincross)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelalKincross)](https://github.com/anuraghazra/github-readme-stats)
 
 **`More Stats...`**
 
