@@ -1,8 +1,8 @@
 [<img src="https://user-images.githubusercontent.com/41302034/209915796-08d1a05b-881c-442a-ac64-74f44d6cb44d.svg" width="1000"/>](https://celalkincross.github.io/)
 
-**`React and Javascript Developer/Automation with Python`**
+**`Cybersecurity Specialist`**
 
-Welcome to my GitHub repository! I am a high school computer science teacher, experienced English teacher, and web developer skilled in React. I have a passion for using AI tools to create engaging and innovative content and websites. Take a look at my projects to see how I combine my technical and language skills with the power of AI and React to build dynamic and user-friendly web applications. Whether you are looking for a new team member or just want to see what I can do, I hope you find something interesting in my [repository](https://github.com/CelalKincross?tab=repositories)!
+Welcome to my GitHub repository! I am a Cybersecurity specialist with a CompTIA Sec +, and Toronto Metropolitan University (TMU) Cybersecurity, Data Protection, and Digital Forensics (April '25) Certifications. I posses both blue team and red team skills. When I am not completing part-time classes for my TMU Computer Science degree, you can usefully find me poking around the internet for new  malaware analysis techniques. Whether you are looking for a new team member or just want to see what I can do, I hope you find something interesting in my [repository](https://github.com/CelalKincross?tab=repositories)!
 <hr>
 
 **`Languages and Tools`**
