@@ -2,7 +2,7 @@
 
 **`Cybersecurity Specialist`**
 
-Welcome to my GitHub repository! I am a Cybersecurity specialist with a CompTIA Sec +, and Toronto Metropolitan University (TMU) Cybersecurity, Data Protection, and Digital Forensics (April '25) Certifications. I posses both blue team and red team skills. When I am not completing part-time classes for my TMU Computer Science degree, you can usefully find me poking around the internet for new  malaware analysis techniques. Whether you are looking for a new team member or just want to see what I can do, I hope you find something interesting in my [repository](https://github.com/CelalKincross?tab=repositories)!
+Welcome to my GitHub repository! I am a Cybersecurity specialist (CISSP, CompTIA Sec +) with Security Operations Centre experience, and Toronto Metropolitan University (TMU) Cybersecurity, Data Protection, and Digital Forensics (April '25) Certification. I posses both blue team and red team skills. When I am not completing part-time classes for my TMU Computer Science degree, you can usefully find me poking around the internet for new  malaware analysis techniques. Feel free to reach out if you have any questions. 
 <hr>
 
 **`Languages and Tools`**
