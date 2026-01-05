@@ -27,16 +27,6 @@ I believe the best security professionals understand both the infrastructure the
 
 ---
 
-## 🛡️ Cybersecurity & IT Operations
-
-**Core Expertise:**
-
-![CISSP](https://img.shields.io/badge/CISSP-00AC41?style=for-the-badge&logo=isc2&logoColor=white)
-![Security+](https://img.shields.io/badge/Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
-![Blue Team](https://img.shields.io/badge/Blue_Team-0066CC?style=for-the-badge&logo=shield&logoColor=white)
-![Red Team](https://img.shields.io/badge/Red_Team-CC0000?style=for-the-badge&logo=kalilinux&logoColor=white)
-![SOC](https://img.shields.io/badge/SOC_Operations-2E86AB?style=for-the-badge&logo=security&logoColor=white)
-
 **Systems & Tools:**
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
