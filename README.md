@@ -75,31 +75,6 @@ I believe the best security professionals understand both the infrastructure the
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![CelalKincross's GitHub stats](https://github-readme-stats.vercel.app/api?username=CelalKincross&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CelalKincross&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CelalKincross&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CelalKincross&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Activity Graph
 
