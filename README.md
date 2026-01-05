@@ -8,7 +8,7 @@
 
 ## Hey there! 👋
 
-I'm Celal, a **Cybersecurity Specialist** (CISSP, CompTIA Sec+) with experience in **Security Operations** and **IT Administration**.
+I'm John aka Lee, a **Cybersecurity Specialist** (CISSP, CompTIA Sec+) with experience in **Security Operations** and **IT Administration**.
 
 I specialize in protecting systems, managing infrastructure, and keeping organizations secure. With hands-on experience in blue team/red team operations and a strong foundation in systems administration, I focus on building robust security postures and automating defensive workflows. Currently pursuing a Computer Science degree at Toronto Metropolitan University while expanding into AI/ML to bring intelligent automation to security operations.
 
