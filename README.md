@@ -51,9 +51,9 @@ I'm always excited to connect with fellow developers, especially those intereste
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnleedallolio)
 [![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=github-pages&logoColor=white)](https://celalkincross.github.io/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jdallolio@gmail.com)
 
 </div>
 
