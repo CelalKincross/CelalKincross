@@ -6,7 +6,6 @@
 
 ---
 
-## Hey there! 👋
 
 I'm John aka Lee, a **Cybersecurity Specialist** (CISSP, CompTIA Sec+) with experience in **Security Operations** and **IT Administration**.
 
@@ -30,22 +29,6 @@ I believe the best security professionals understand both the infrastructure the
 ## 📈 Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CelalKincross&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📈 What I Do
-
-<div align="center">
-
-🛡️ **Security Operations** • 🔧 **IT Administration** • 🤖 **Security Automation**
-
-</div>
-
-**Security Focus:** Threat detection and analysis, malware analysis, SOC operations, vulnerability assessment
-
-**IT Operations:** Infrastructure management, system hardening, automation scripting, Windows/Linux administration
-
-**Current Interest:** Exploring how AI/ML can enhance security operations—automated threat detection, intelligent alert filtering, and security automation. The intersection of cybersecurity expertise and emerging AI technologies is where the next generation of defensive tools will emerge.
 
 ---
 
